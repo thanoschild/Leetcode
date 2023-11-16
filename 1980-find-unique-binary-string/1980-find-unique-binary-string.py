@@ -3,10 +3,7 @@ class Solution(object):
         ans = ''
         for i in range(len(nums)):
             curr = nums[i][i]
-            if curr == '0':
-                opp = '1'
-            else:
-                opp = '0'
+            opp = '1' if curr == '0' else '0'
             ans += opp
             
         return ans
