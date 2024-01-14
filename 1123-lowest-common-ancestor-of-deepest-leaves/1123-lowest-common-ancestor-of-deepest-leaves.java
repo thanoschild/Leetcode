@@ -13,15 +13,7 @@
  *     }
  * }
  */
-class Pair {
-    TreeNode node;
-    int depth;
-    
-    Pair(TreeNode node, int depth) {
-        this.node = node;
-        this.depth = depth;
-    }
-}
+record Pair(TreeNode node, int depth) {}
 
 class Solution {
     
@@ -31,14 +23,14 @@ class Solution {
         Pair left = dfs(root.left);
         Pair right = dfs(root.right);
 
-        if(left.depth > right.depth) return new Pair(left.node, left.depth + 1);
-        if(right.depth > left.depth) return new Pair(right.node, right.depth + 1);
+        if(left.depth() > right.depth()) return new Pair(left.node(), left.depth() + 1);
+        if(right.depth() > left.depth()) return new Pair(right.node(), right.depth() + 1);
 
-        return new Pair(root, left.depth + 1);
+        return new Pair(root, left.depth() + 1);
     }
 
     public TreeNode lcaDeepestLeaves(TreeNode root) {
         Pair p = dfs(root);
-        return p.node;
+        return p.node();
     }
 }
