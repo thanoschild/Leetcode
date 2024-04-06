@@ -1,20 +1,23 @@
-class Solution(object):
-    def minRemoveToMakeValid(self, s):
-        stack = []
-        chars = list(s)
+class Solution {
+    public String minRemoveToMakeValid(String s) {
+        Stack<Integer> st = new Stack<>();
+        char[] chars = s.toCharArray();
 
-        for i in range(len(chars)):
-            if chars[i] == '(':
-                stack.append(i)
-            elif chars[i] == ')':
-                if stack:
-                    stack.pop()
-                else:
-                    chars[i] = '*'
+        for(int i = 0; i<chars.length; i++) {
+            if(chars[i] == '(') st.push(i);
+            else if(chars[i] == ')') {
+                if(st.isEmpty()) chars[i] = '*';
+                else st.pop();
+            }
+        }
 
-        while stack:
-            chars[stack.pop()] = '*'
+        while(!st.isEmpty()) chars[st.pop()] = '*';
 
-        return ''.join(char for char in chars if char != '*')
+        StringBuilder ans = new StringBuilder();
+        for(int i = 0; i<chars.length; i++) {
+            if(chars[i] != '*') ans.append(chars[i]);
+        }
 
-        
+        return ans.toString();
+    }
+}
