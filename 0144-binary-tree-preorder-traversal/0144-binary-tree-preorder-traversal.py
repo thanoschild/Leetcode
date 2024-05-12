@@ -5,15 +5,27 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def preorder(self, root, ans):
-        if root == None:
-            return
-        ans.append(root.val)
-        self.preorder(root.left, ans)
-        self.preorder(root.right, ans)
-        
     def preorderTraversal(self, root):
         ans = []
-        self.preorder(root, ans)
+        if root is None:
+            return ans
+        
+        while root:
+            if root.left:
+                curr = root.left
+                while curr.right and curr.right != root:
+                    curr = curr.right
+                
+                if curr.right:
+                    curr.right = None
+                    root = root.right
+                else:
+                    ans.append(root.val)
+                    curr.right = root
+                    root = root.left
+            else:
+                ans.append(root.val)
+                root = root.right
+
         return ans
         
