@@ -11,15 +11,32 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    const ans = []
+    let ans = []
+    if(root === null) return ans;
+    let curr;
 
-    preorder = (root) => {
-        if(root == null) return;
-        ans.push(root.val);
-        preorder(root.left);
-        preorder(root.right);
+    while(root !== null) {
+        if(root.left !== null) {
+            curr = root.left;
+            while(curr.right !== null && curr.right !== root) {
+                curr = curr.right;
+            }
+
+            if(curr.right != null) {
+                curr.right = null;
+                root = root.right;
+            }
+            else {
+                ans.push(root.val);
+                curr.right = root;
+                root = root.left;
+            }
+        }
+        else {
+            ans.push(root.val);
+            root = root.right;
+        }
     }
 
-    preorder(root);
     return ans;
 };
