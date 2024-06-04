@@ -1,20 +1,24 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        vector<int> freq(128, 0);
+        vector<int> up(26, 0), low(26, 0);
         for(char c : s) {
-            freq[c - '0']++;
+            if(c >= 'a') low[c - 'a']++;
+            else up[c - 'A']++;
         }
 
         int ans = 0, flag = 0;
-        for(int i = 0; i<128; i++) {
-            if(freq[i] % 2 == 0) ans += freq[i];
+        for(int i = 0; i<26; i++) {
+            if(low[i] % 2 == 0) ans += low[i];
             else {
-                if(freq[i] > 1) {
-                    ans += freq[i] - 1;
-                    freq[i] = 1;
-                }
-                if(freq[i] == 1) flag = 1;
+                ans += low[i] - 1;
+                flag = 1;
+            }
+
+            if(up[i]%2 == 0) ans += up[i];
+            else {
+                ans += up[i] - 1;
+                flag = 1;
             }
         }
 
