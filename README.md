@@ -33,3 +33,19 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
+# Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
+# Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
+# Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
