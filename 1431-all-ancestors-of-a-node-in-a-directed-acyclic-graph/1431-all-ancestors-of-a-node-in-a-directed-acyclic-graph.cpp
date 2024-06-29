@@ -10,6 +10,10 @@ public:
     }
 
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         vector<vector<int>> ans(n), child(n);
         for (auto e : edges) {
             child[e[0]].push_back(e[1]);
