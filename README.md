@@ -71,6 +71,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -78,16 +79,17 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/godspell/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
-| [1916-find-center-of-star-graph](https://github.com/godspell/Leetcode/tree/master/1916-find-center-of-star-graph) |
-| [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/godspell/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/godspell/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1916-find-center-of-star-graph](https://github.com/godspell/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Topological Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -170,6 +173,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
