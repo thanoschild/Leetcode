@@ -189,4 +189,12 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/godspell/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/godspell/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
