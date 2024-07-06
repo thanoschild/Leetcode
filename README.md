@@ -143,6 +143,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2645-pass-the-pillow](https://github.com/godspell/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +199,5 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/godspell/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/godspell/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
