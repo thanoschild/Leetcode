@@ -62,6 +62,7 @@
 | [1803-average-waiting-time](https://github.com/godspell/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/godspell/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/godspell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/godspell/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/godspell/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/godspell/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
@@ -221,4 +224,5 @@
 | ------- |
 | [1720-crawler-log-folder](https://github.com/godspell/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/godspell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
