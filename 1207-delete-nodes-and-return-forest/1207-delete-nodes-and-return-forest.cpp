@@ -27,7 +27,6 @@ public:
             }
             else root = NULL;
             delete root;
-            return;
         }
     }
     
