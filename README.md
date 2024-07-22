@@ -15,6 +15,7 @@
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/godspell/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [1720-crawler-log-folder](https://github.com/godspell/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/godspell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/godspell/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/godspell/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/godspell/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -90,6 +93,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/godspell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
 ## Trie
 |  |
