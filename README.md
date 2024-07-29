@@ -68,6 +68,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/godspell/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/godspell/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/godspell/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/godspell/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/godspell/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/godspell/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -291,9 +292,14 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/godspell/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/godspell/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/godspell/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/godspell/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/godspell/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
