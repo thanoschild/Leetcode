@@ -19,6 +19,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/godspell/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/godspell/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/godspell/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/godspell/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/godspell/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/godspell/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/godspell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/godspell/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/godspell/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/godspell/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/godspell/Leetcode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/godspell/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
 | ------- |
@@ -174,6 +178,7 @@
 | [1137-height-checker](https://github.com/godspell/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/godspell/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/godspell/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
