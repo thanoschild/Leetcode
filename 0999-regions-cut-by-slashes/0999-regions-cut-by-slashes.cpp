@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     vector<int> parent, sz;
