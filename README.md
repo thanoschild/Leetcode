@@ -46,6 +46,7 @@
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/godspell/Leetcode/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/godspell/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/godspell/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -67,6 +68,7 @@
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/godspell/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/godspell/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/godspell/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/godspell/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
