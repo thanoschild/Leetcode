@@ -1,6 +1,10 @@
 class Solution {
 public:
     int maxDistance(vector<vector<int>>& arrays) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         int mx = -1, mn = -1, diff = -1;
         for(int i = 0; i<arrays.size(); i++) {
             int currMax = arrays[i][arrays[i].size() - 1];
