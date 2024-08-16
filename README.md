@@ -44,6 +44,7 @@
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
+| [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/godspell/Leetcode/tree/master/0890-lemonade-change) |
@@ -63,6 +64,7 @@
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
+| [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
