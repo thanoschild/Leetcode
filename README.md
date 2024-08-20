@@ -84,6 +84,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/godspell/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
+| [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/godspell/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/godspell/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -190,6 +191,7 @@
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/godspell/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/godspell/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/godspell/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/godspell/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -352,6 +355,7 @@
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/godspell/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/godspell/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/godspell/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/godspell/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/godspell/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -381,4 +385,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
