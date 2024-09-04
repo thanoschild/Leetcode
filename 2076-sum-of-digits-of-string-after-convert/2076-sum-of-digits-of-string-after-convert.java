@@ -1,19 +1,29 @@
 class Solution {
+    private int sumDigit(int num) {
+        int ans = 0;
+        while(num > 0) {
+            ans += num % 10;
+            num /= 10;
+        }
+
+        return ans;
+    }
+
     public int getLucky(String s, int k) {
-        StringBuilder num = new StringBuilder();
-
-        for (char c : s.toCharArray()) {
-            num.append((c - 'a') + 1);
-        }
-
-        while (k-- > 0) {
-            int temp = 0;
-            for (char c : num.toString().toCharArray()) {
-                temp += (c - '0'); 
+        int sum = 0;
+        for(char c : s.toCharArray()) {
+            int val = (c - 'a' + 1);
+            while(val > 0) {
+                sum += val % 10;
+                val /= 10;
             }
-            num = new StringBuilder(Integer.toString(temp));
+        }
+        
+        while(k > 1) {
+            sum = sumDigit(sum);
+            k--;
         }
 
-        return Integer.parseInt(num.toString());
+        return sum;
     }
 }
