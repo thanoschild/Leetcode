@@ -13,10 +13,7 @@ class Solution {
         int sum = 0;
         for(char c : s.toCharArray()) {
             int val = (c - 'a' + 1);
-            while(val > 0) {
-                sum += val % 10;
-                val /= 10;
-            }
+            sum += sumDigit(val);
         }
         
         while(k > 1) {
