@@ -3,6 +3,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/godspell/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -65,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/godspell/Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
