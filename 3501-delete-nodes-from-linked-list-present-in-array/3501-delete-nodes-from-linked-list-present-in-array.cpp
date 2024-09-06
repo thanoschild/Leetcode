@@ -12,22 +12,19 @@ class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         set<int> st(nums.begin(), nums.end());
-        ListNode* curr = new ListNode(-1);
-        curr -> next = head;
-        ListNode* dummy = curr;
-        
-        while(dummy -> next) {
-            int nodeVal = dummy -> next -> val;
-            if(st.find(nodeVal) != st.end()) {
-                if(dummy -> next -> next) dummy -> next = dummy -> next -> next;
-                else {
-                    dummy -> next = NULL;
-                    break;
-                }
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+
+        while(head) {
+            if(st.find(head -> val) == st.end()) {
+                temp -> next = head;
+                temp = temp -> next;
             }
-            else dummy = dummy -> next;
+
+            head = head -> next;
         }
 
-        return curr -> next;
+        temp -> next = NULL;
+        return dummy -> next;
     }
 };
