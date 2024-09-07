@@ -21,32 +21,14 @@
  */
 class Solution {
 public:
-    bool flag;
     bool check(ListNode* head, TreeNode* root) {
         if(!head) return true;
         if(!root) return false;
-        if(head -> val == root -> val) {
-            ListNode* temp = head;
-            return check(temp -> next, root -> left) || check(temp -> next, root -> right);
-        }
-        return false;
+        return head -> val == root -> val && (check(head -> next, root -> left) || check(head -> next, root -> right));
     }
-
-    void solve(ListNode* head, TreeNode* root) {
-        if(!root) return;
-        ListNode* temp = head;
-        if(root -> val == head -> val && check(temp, root)) {
-            flag = true;
-            return;
-        }
-        // delete temp;
-        solve(head, root -> left);
-        solve(head, root -> right);
-    }
-
+    
     bool isSubPath(ListNode* head, TreeNode* root) {
-        flag = false;
-        solve(head, root);
-        return flag;
+        if(!root) return false;
+        return check(head, root) || isSubPath(head, root -> left) || isSubPath(head, root -> right);
     }
 };
