@@ -19,9 +19,9 @@ public:
         } 
 
         int sz = len/k, rem = len % k;
-        cout<<sz<<endl;
         vector<ListNode*> ans(k);
         curr = head;
+        
         for(int i = 0; i<k; i++) {
             if(curr) {
                ans[i] = curr;
