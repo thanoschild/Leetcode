@@ -304,6 +304,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/godspell/Leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/godspell/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
 | ------- |
