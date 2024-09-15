@@ -20,6 +20,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/godspell/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/godspell/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/godspell/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/godspell/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -38,6 +39,7 @@
 | [0664-strange-printer](https://github.com/godspell/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/godspell/Leetcode/tree/master/0726-number-of-atoms) |
 | [1044-find-common-characters](https://github.com/godspell/Leetcode/tree/master/1044-find-common-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/godspell/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/godspell/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/godspell/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/godspell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -226,6 +228,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/godspell/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/godspell/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/godspell/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting Sort
 |  |
@@ -312,6 +315,7 @@
 | [0476-number-complement](https://github.com/godspell/Leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/godspell/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/godspell/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/godspell/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/godspell/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/godspell/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
