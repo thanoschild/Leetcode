@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/godspell/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -56,6 +57,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
@@ -77,6 +79,7 @@
 | [0001-two-sum](https://github.com/godspell/Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
