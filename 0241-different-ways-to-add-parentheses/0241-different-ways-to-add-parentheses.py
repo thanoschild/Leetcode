@@ -6,8 +6,13 @@ class Solution(object):
             "*": lambda x, y: x * y,
         }
         
+        dp = {}
+
         def backtrack(left, right):
             ans = []
+            if (left, right) in dp:
+                return dp[(left, right)]
+
             for i in range(left, right + 1):
                 op = expression[i]
                 if op in operations:
@@ -20,6 +25,8 @@ class Solution(object):
                     
             if ans == []:
                 ans.append(int(expression[left:right+1]))
+
+            dp[(left, right)] = ans
             return ans
           
         return backtrack(0, len(expression) - 1)
