@@ -174,6 +174,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/godspell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 ## Depth-First Search
 |  |
@@ -181,6 +182,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/godspell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/godspell/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/godspell/Leetcode/tree/master/0999-regions-cut-by-slashes) |
