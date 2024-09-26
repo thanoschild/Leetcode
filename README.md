@@ -94,6 +94,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
@@ -293,6 +294,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/godspell/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/godspell/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -333,6 +335,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/godspell/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -484,6 +487,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/godspell/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -521,4 +525,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/godspell/Leetcode/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
