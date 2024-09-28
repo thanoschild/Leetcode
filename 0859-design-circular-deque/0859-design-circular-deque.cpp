@@ -1,21 +1,21 @@
 class MyCircularDeque {
 public:
     deque<int> pq;
-    int n;
+    int idx;
     MyCircularDeque(int k) {
-        n = k;
+       idx = k; 
     }
     
     bool insertFront(int value) {
-        if(pq.size() < n) {
-            pq.push_front(value);
-            return true;
+        if(pq.size() < idx){
+         pq.push_front(value);
+         return true;
         }
         return false;
     }
     
     bool insertLast(int value) {
-        if(pq.size() < n) {
+        if(pq.size() < idx){
             pq.push_back(value);
             return true;
         }
@@ -23,41 +23,39 @@ public:
     }
     
     bool deleteFront() {
-        if(!pq.empty()) {
-            pq.pop_front();
-            return true;
-        }
-        return false;
+       if(!pq.empty()){
+           pq.pop_front();
+           return true;
+       } 
+       return false;
     }
     
     bool deleteLast() {
-        if(!pq.empty()) {
-            pq.pop_back();
-            return true;
-        }
-        return false;
+       if(!pq.empty()){
+           pq.pop_back();
+           return true;
+       } 
+       return false; 
     }
     
     int getFront() {
-        if(!pq.empty()) {
-            return pq.front();
-        }
-        return -1;
+       if(!pq.empty()){
+           return pq.front();
+       } 
+       return -1;
     }
     
     int getRear() {
-        if(!pq.empty()) {
-            return pq.back();
-        }
-        return -1;
+       if(!pq.empty()) return pq.back();
+       return -1; 
     }
     
     bool isEmpty() {
-        return pq.empty();
+        return pq.empty(); 
     }
     
     bool isFull() {
-        return n == pq.size();
+        return pq.size() == idx; 
     }
 };
 
