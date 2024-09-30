@@ -322,6 +322,7 @@
 | [2155-find-missing-observations](https://github.com/godspell/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/godspell/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/godspell/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/godspell/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Sliding Window
 |  |
 | ------- |
