@@ -8,6 +8,7 @@
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/godspell/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -45,6 +46,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/godspell/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/godspell/Leetcode/tree/master/0664-strange-printer) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -340,6 +343,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/godspell/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
