@@ -16,7 +16,10 @@ public:
         }
 
         int n = words1.size(), m = words2.size();
-        if(n > m) return areSentencesSimilar(s2, s1);
+        if(n > m) {
+            swap(words1, words2);
+            swap(n, m);
+        }
 
         int i = 0;
         while(i < n && words1[i] == words2[i]) i++;
