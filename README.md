@@ -9,6 +9,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/godspell/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -80,6 +81,7 @@
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/godspell/Leetcode/tree/master/0890-lemonade-change) |
@@ -106,6 +108,7 @@
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/godspell/Leetcode/tree/master/0729-my-calendar-i) |
@@ -186,6 +189,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/godspell/Leetcode/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -319,6 +323,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/godspell/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/godspell/Leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/godspell/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -363,6 +368,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/godspell/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
