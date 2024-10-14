@@ -7,7 +7,6 @@ public:
         long long ans = 0;
         while(k-- && !pq.empty()) {
             int t = pq.top();
-            cout<<t<<endl;
             pq.pop();
             ans += (long) t;
             int val = t/3;
