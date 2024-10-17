@@ -84,6 +84,7 @@
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/godspell/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/godspell/Leetcode/tree/master/0670-maximum-swap) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/godspell/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/godspell/Leetcode/tree/master/0890-lemonade-change) |
@@ -363,6 +364,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/godspell/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/godspell/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/godspell/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
