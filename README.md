@@ -55,6 +55,7 @@
 | [0648-replace-words](https://github.com/godspell/Leetcode/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/godspell/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/godspell/Leetcode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/godspell/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/godspell/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/godspell/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/godspell/Leetcode/tree/master/1044-find-common-characters) |
@@ -637,6 +638,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/godspell/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/godspell/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
