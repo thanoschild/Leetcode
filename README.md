@@ -25,6 +25,7 @@
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/godspell/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/godspell/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/godspell/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/godspell/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/godspell/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -166,6 +167,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/godspell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/godspell/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/godspell/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/godspell/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/godspell/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/godspell/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -248,6 +250,7 @@
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/godspell/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/godspell/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/godspell/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/godspell/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/godspell/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/godspell/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -384,6 +387,7 @@
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/godspell/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/godspell/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/godspell/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/godspell/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -422,6 +426,7 @@
 | [0731-my-calendar-ii](https://github.com/godspell/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0853-most-profit-assigning-work](https://github.com/godspell/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/godspell/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/godspell/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/godspell/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/godspell/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/godspell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
