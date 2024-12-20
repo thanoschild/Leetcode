@@ -328,6 +328,7 @@
 | [2035-count-sub-islands](https://github.com/godspell/Leetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/godspell/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/godspell/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/godspell/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -341,6 +342,7 @@
 | [2035-count-sub-islands](https://github.com/godspell/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/godspell/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/godspell/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/godspell/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/godspell/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -573,6 +575,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/godspell/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/godspell/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/godspell/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/godspell/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -595,6 +598,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/godspell/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/godspell/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/godspell/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/godspell/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
