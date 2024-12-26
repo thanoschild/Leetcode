@@ -143,6 +143,7 @@
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/godspell/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/godspell/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -721,6 +722,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/godspell/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/godspell/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/godspell/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/godspell/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -769,6 +771,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/godspell/Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/godspell/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
