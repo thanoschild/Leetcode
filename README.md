@@ -168,6 +168,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/godspell/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/godspell/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/godspell/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/godspell/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/godspell/Leetcode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/godspell/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -730,6 +731,7 @@
 | [0650-2-keys-keyboard](https://github.com/godspell/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/godspell/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/godspell/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/godspell/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/godspell/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/godspell/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/godspell/Leetcode/tree/master/1240-stone-game-ii) |
