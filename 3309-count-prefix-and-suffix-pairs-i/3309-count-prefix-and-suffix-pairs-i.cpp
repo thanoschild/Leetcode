@@ -4,15 +4,7 @@ public:
         int n = a.size(), m = b.size();
         if(a > b) return false;
 
-        for(int i = 0; i<n; i++) {
-            if(a[i] != b[i]) return false;
-        }
-
-        for(int i = n - 1, j = m - 1; i>=0; i--, j--) {
-            if(a[i] != b[j]) return false;
-        }
-
-        return true;
+        return b.substr(0, n) == a && b.substr(m - n) == a;
     }
     
     int countPrefixSuffixPairs(vector<string>& words) {
