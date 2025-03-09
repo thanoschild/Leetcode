@@ -339,6 +339,7 @@
 | [3427-special-array-ii](https://github.com/godspell/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/godspell/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/godspell/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/godspell/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/godspell/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/godspell/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/godspell/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -680,6 +681,7 @@
 | [2868-continuous-subarrays](https://github.com/godspell/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/godspell/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/godspell/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/godspell/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
