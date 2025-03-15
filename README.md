@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/godspell/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
@@ -631,6 +632,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
