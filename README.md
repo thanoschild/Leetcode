@@ -505,6 +505,7 @@
 | [1558-course-schedule-iv](https://github.com/godspell/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/godspell/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1916-find-center-of-star-graph](https://github.com/godspell/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/godspell/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/godspell/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/godspell/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/godspell/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -527,6 +528,7 @@
 | [0820-find-eventual-safe-states](https://github.com/godspell/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/godspell/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/godspell/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/godspell/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/godspell/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/godspell/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
@@ -976,6 +978,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/godspell/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/godspell/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/godspell/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/godspell/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/godspell/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/godspell/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/godspell/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -987,6 +990,7 @@
 | [1325-path-with-maximum-probability](https://github.com/godspell/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/godspell/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/godspell/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/godspell/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/godspell/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/godspell/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/godspell/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
