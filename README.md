@@ -451,6 +451,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/godspell/Leetcode/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/godspell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/godspell/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/godspell/Leetcode/tree/master/0684-redundant-connection) |
@@ -820,6 +821,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/godspell/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/godspell/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -852,6 +854,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/godspell/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/godspell/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/godspell/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
