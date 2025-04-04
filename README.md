@@ -29,6 +29,7 @@
 | [1160-letter-tile-possibilities](https://github.com/godspell/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/godspell/Leetcode/tree/master/1217-relative-sort-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/godspell/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/godspell/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/godspell/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/godspell/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -463,6 +464,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/godspell/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/godspell/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/godspell/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/godspell/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -494,6 +496,7 @@
 | [0820-find-eventual-safe-states](https://github.com/godspell/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/godspell/Leetcode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/godspell/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/godspell/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/godspell/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/godspell/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/godspell/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -829,6 +832,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/godspell/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/godspell/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/godspell/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/godspell/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -861,6 +865,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/godspell/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/godspell/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/godspell/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/godspell/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/godspell/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/godspell/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/godspell/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
