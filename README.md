@@ -199,6 +199,7 @@
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/godspell/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/godspell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -800,6 +801,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/godspell/Leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/godspell/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/godspell/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1073,6 +1075,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/godspell/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/godspell/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/godspell/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
