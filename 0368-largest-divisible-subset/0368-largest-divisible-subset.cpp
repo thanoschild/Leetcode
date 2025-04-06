@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        int n = nums.size();
+        int n = nums.size(), maxVal = -1, start = -1;
         if(n == 1) return nums;
-        vector<int> dp(n, + 1);
+        
+        vector<int> dp(n, 1);
         vector<int> parent(n);
 
-        int source = 0, mx = 1;
         sort(nums.begin(), nums.end());
         for(int i = 1; i<n; i++) {
             for(int j = 0; j<i; j++) {
@@ -17,16 +17,17 @@ public:
                     }
                 }
             }
-            if(dp[i] > mx) {
-                mx = dp[i];
-                source = i;
+
+            if(dp[i] > maxVal) {
+                maxVal = dp[i];
+                start = i;
             }
         }
 
         vector<int> ans;
-        for(int i = 0; i<mx; i++) {
-            ans.push_back(nums[source]);
-            source = parent[source];
+        for(int i = 0; i<maxVal; i++) {
+            ans.push_back(nums[start]);
+            start = parent[start];
         }
 
         return ans;
