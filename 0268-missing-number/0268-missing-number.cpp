@@ -1,8 +1,10 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int i = 0, ans = 0;
-        for(i = 0; i<nums.size(); i++) ans = ans ^ i ^ nums[i];
-        return ans ^ i;
+        int _xor = 0, n = nums.size();
+        for(int it : nums) _xor ^= it;
+        for(int i = 0; i<=n; i++) _xor ^= i;
+
+        return _xor;
     }
 };
