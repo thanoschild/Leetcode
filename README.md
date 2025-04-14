@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/godspell/Leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/godspell/Leetcode/tree/master/0567-permutation-in-string) |
@@ -209,6 +210,7 @@
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/godspell/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/godspell/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/godspell/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -401,6 +403,7 @@
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/godspell/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/godspell/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
@@ -703,6 +706,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/godspell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/godspell/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/godspell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -736,6 +740,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/godspell/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/godspell/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/godspell/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -817,6 +822,7 @@
 | ------- |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/godspell/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/godspell/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/godspell/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/godspell/Leetcode/tree/master/0476-number-complement) |
