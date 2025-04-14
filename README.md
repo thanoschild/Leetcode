@@ -821,6 +821,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/godspell/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/godspell/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/godspell/Leetcode/tree/master/0338-counting-bits) |
@@ -908,6 +909,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/godspell/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/godspell/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/godspell/Leetcode/tree/master/0948-sort-an-array) |
