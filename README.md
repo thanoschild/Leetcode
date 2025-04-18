@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/godspell/Leetcode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/godspell/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
