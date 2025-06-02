@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/godspell/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/godspell/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/godspell/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/godspell/Leetcode/tree/master/0409-longest-palindrome) |
@@ -225,6 +226,7 @@
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/godspell/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/godspell/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/godspell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
