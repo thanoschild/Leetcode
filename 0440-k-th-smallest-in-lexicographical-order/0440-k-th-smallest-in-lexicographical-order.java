@@ -1,8 +1,8 @@
 class Solution {
-    private long countSteps(long curr, long n) {
+    private long countSteps(int n, int curr) {
         long steps = 0, first = curr, last = curr;
         while(first <= n) {
-            steps += Math.min(n+1, last + 1) - first;
+            steps += Math.min(n+1, last+1) - first;
             first *= 10;
             last = last * 10 + 9;
         }
@@ -15,12 +15,11 @@ class Solution {
         k--;
 
         while(k > 0) {
-            long steps = countSteps(curr, n);
+            long steps = countSteps(n, curr);
             if(steps <= k) {
-                k -= steps;
                 curr++;
-            }
-            else {
+                k -= steps;
+            } else {
                 curr *= 10;
                 k--;
             }
