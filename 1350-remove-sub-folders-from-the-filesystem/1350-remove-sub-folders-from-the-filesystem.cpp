@@ -8,28 +8,23 @@ public:
              });
 
         for (string s : folder) {
-            string temp = "", curr = "";
+            string temp = "";
             bool flag = false;
             for (int i = 0; i < s.size(); i++) {
-                char c = s[i];
-                if (c == '/') {
-                    temp += curr;
-                    if (st.find(temp) != st.end()) {
+                if(s[i] == '/' && temp.size() > 0) {
+                   if(st.find(temp) != st.end()) {
                         flag = true;
                         break;
                     }
-
-                    temp += '/';
-                    curr = "";
-                } else {
-                    curr += c;
-                }
+                } 
+                temp += s[i];
             }
-            if(curr.size() != 0) temp += curr;
+            
             if (st.find(temp) != st.end()) {
                 flag = true;
-                break;
+                continue;
             }
+
             if (!flag) st.insert(s);
         }
 
