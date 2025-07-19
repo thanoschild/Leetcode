@@ -1,39 +1,41 @@
 class Solution {
 public:
-    bool myCompare(const string &a, const string &b) {
-        return a.size() < b.size();
-    }
-
     vector<string> removeSubfolders(vector<string>& folder) {
-        sort(folder.begin(), folder.end(), [](const string &a, const string &b) {
-            return a.size() < b.size();
-        });
         unordered_set<string> st;
+        sort(folder.begin(), folder.end(),
+             [](const string& a, const string& b) {
+                 return a.size() < b.size();
+             });
 
-        for(string s : folder) {
-            string curr = "";
-            bool flag = true;
-            for(char c : s) {
-                if(c == '/' && curr != "") {
-                    if(st.find(curr) != st.end()) {
-                        flag = false;
-                        continue;
+        for (string s : folder) {
+            string temp = "", curr = "";
+            bool flag = false;
+            for (int i = 0; i < s.size(); i++) {
+                char c = s[i];
+                if (c == '/') {
+                    temp += curr;
+                    if (st.find(temp) != st.end()) {
+                        flag = true;
+                        break;
                     }
-                }
-                curr += c;
-            }
-            if(st.find(curr) != st.end()) {
-                flag = false;
-                continue;
-            }
 
-            if(flag) st.insert(curr);
+                    temp += '/';
+                    curr = "";
+                } else {
+                    curr += c;
+                }
+            }
+            if(curr.size() != 0) temp += curr;
+            if (st.find(temp) != st.end()) {
+                flag = true;
+                break;
+            }
+            if (!flag) st.insert(s);
         }
 
         vector<string> ans;
-        for(auto it : st) {
-            ans.push_back(it);
-        }
+        for (auto s : st)
+            ans.push_back(s);
 
         return ans;
     }
