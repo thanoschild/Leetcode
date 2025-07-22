@@ -48,6 +48,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/godspell/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/godspell/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/godspell/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/godspell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/godspell/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/godspell/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/godspell/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -341,6 +342,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/godspell/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/godspell/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/godspell/Leetcode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/godspell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/godspell/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/godspell/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/godspell/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -877,6 +879,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/godspell/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/godspell/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/godspell/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/godspell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/godspell/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/godspell/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/godspell/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
