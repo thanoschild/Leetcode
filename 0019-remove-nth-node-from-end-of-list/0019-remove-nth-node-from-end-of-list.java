@@ -22,10 +22,9 @@ class Solution {
             fast = fast.next;
             slow = slow.next;
         }
-        ListNode toDelete = slow.next;
-        slow.next = slow.next.next;
-        toDelete = null;
 
+        slow.next = slow.next.next;
+        
         return head;
     }
 }
