@@ -762,6 +762,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/godspell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/godspell/Leetcode/tree/master/0502-ipo) |
@@ -1022,6 +1023,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/godspell/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/godspell/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -1034,6 +1036,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/godspell/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/godspell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/godspell/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/godspell/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -1151,6 +1154,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/godspell/Leetcode/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/godspell/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
