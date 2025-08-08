@@ -245,6 +245,7 @@
 | [0015-3sum](https://github.com/godspell/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/godspell/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/godspell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/godspell/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -839,6 +840,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
@@ -1123,6 +1125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/godspell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/godspell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/godspell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
