@@ -99,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/godspell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/godspell/Leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/godspell/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/godspell/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/godspell/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -251,6 +252,7 @@
 | [0073-set-matrix-zeroes](https://github.com/godspell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/godspell/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/godspell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/godspell/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/godspell/Leetcode/tree/master/0135-candy) |
@@ -544,6 +546,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/godspell/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/godspell/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/godspell/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1128,6 +1131,7 @@
 | [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/godspell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/godspell/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/godspell/Leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/godspell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/godspell/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/godspell/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -1257,6 +1261,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/godspell/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/godspell/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/godspell/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/godspell/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/godspell/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
