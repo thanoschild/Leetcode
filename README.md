@@ -844,6 +844,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/godspell/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
@@ -943,6 +944,7 @@
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/godspell/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/godspell/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/godspell/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/godspell/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/godspell/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/godspell/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -1094,6 +1096,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/godspell/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/godspell/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/godspell/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/godspell/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/godspell/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/godspell/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
