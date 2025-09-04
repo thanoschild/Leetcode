@@ -902,6 +902,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/godspell/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/godspell/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/godspell/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/godspell/Leetcode/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
