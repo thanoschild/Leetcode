@@ -251,6 +251,7 @@
 | [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/godspell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/godspell/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/godspell/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/godspell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/godspell/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/godspell/Leetcode/tree/master/0078-subsets) |
@@ -862,6 +863,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/godspell/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/godspell/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/godspell/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/godspell/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/godspell/Leetcode/tree/master/0264-ugly-number-ii) |
