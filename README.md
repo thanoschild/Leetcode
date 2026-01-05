@@ -216,6 +216,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/godspell/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/godspell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/godspell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/godspell/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/godspell/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/godspell/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/godspell/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -371,6 +372,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/godspell/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/godspell/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/godspell/Leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/godspell/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/godspell/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/godspell/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/godspell/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1193,6 +1195,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/godspell/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/godspell/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/godspell/Leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/godspell/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/godspell/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/godspell/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/godspell/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
